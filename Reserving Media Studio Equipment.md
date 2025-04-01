@@ -1,6 +1,51 @@
-<h2 style="color: #ffffff; background: #232D4B; text-align: left; padding-left: 5px;"><strong>Media Studies Equipment Code and Contract Form</strong></h2>
-<div style="margin: 1em 2em; padding: 10px 15px; border: 6px solid #FCE9AA; background: #FDF4D4; font-size: 100%; overflow: auto;">
-    <p style="text-align: left;"><span style="font-size: 14pt;"><strong><span style="color: #000000;">Sign the</span> ​<a class="inline_disabled" href="https://virginia.az1.qualtrics.com/jfe/form/SV_9QC4iZe4IaPoUhU" target="_blank" rel="noopener">Media Studies Equipment Stewardship Code and Contract</a> <span style="color: #000000;">AND make sure to log into the reservation system to access Media Studies restricted equipment before your class equipment training.&nbsp;</span></strong></span></p>
-</div>
-<p><span style="font-size: 14pt;"><strong><span style="color: #000000;" data-scheme-color="@000000,1," data-usefontface="true" data-hyperlinkhascustomcolor="true" data-contrast="none">Logging in generates your account, which is necessary for you to have before you can be granted access to Media Studies equipment.</span></strong></span><strong></strong></p>
-<h2 style="color: #ffffff; background: #232D4B; text-align: left; padding-left: 5px;"><strong>Where is the Media Studio?</strong></h2>
+# Reserving Media Studio Equipment
+
+> ⚠️ **Please read this first:**  
+> To reserve equipment, you must first complete the equipment training module and pass the quiz. If you have not yet completed this, please [visit the training module on Canvas](https://your-canvas-link.com) before continuing.
+
+---
+
+## Step 1: Log In to Cheqroom
+
+Go to [cheqroom.com/login](https://cheqroom.com/login) and log in using your **official UVA email address**.
+
+![Cheqroom Login Page](https://your-image-link.com/cheqroom-login.png)
+
+> 🔍 *Make sure to use your @virginia.edu email address, not a personal one.*
+
+---
+
+## Step 2: Access the Media Studio Equipment
+
+Once logged in, you will see a dashboard with available equipment. Use the search bar or scroll through the categories to find what you need.
+
+![Cheqroom Dashboard](https://your-image-link.com/dashboard.png)
+
+---
+
+## Step 3: Choose Your Equipment
+
+Click on the item you want to reserve. You'll see availability, description, and photos. Click **“Reserve”** to start the reservation process.
+
+![Reserve Button](https://your-image-link.com/reserve-button.png)
+
+---
+
+## Step 4: Select Date and Time
+
+Use the calendar tool to select your desired checkout and return time. Make sure the dates do not conflict with studio closures or your training schedule.
+
+---
+
+## Step 5: Confirm Reservation
+
+Review your reservation details, and click **“Confirm Reservation”**. You will receive a confirmation email once the reservation is complete.
+
+---
+
+## Need Help?
+
+Contact the Media Studio Desk or stop by during open hours. We're happy to assist!
+
+- 📧 mediastudio@virginia.edu
+- 📍 Clemons Library, Lower Level
